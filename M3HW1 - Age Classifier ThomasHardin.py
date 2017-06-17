@@ -8,10 +8,10 @@ Persons_age = float(input("Enter the Person age: "))
 if  Persons_age <= 1:  
     print ("This person is an infant")
 else:
- if  Persons_age == 1 or Persons_age <=12:
+ if  Persons_age == 1 or Persons_age <=13:
    print ("This person is an child")
  else:
-  if  Persons_age == 13 or Persons_age <=20:
+  if  Persons_age == 13 and Persons_age <=20:
        print ("This person is an teenager")
   else:
     if Persons_age == 20 or Persons_age > 20:
