@@ -1,4 +1,4 @@
-#Measure a persons Body Max Index "BMI" 
+#Bug Collector" 
 #6/16/17
 #CTI-110  M4HT1 - Bug Collector
 #Thomas Hardin
