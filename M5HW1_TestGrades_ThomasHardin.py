@@ -1,6 +1,7 @@
 #Test Average and Grade
 #7/12/17
-#CTI-110 M5HW2 Test Average 
+#CTI-110 M5HW1
+ Test Average and Grade
 #Thomas Hardin
 #
 def calc_average():
